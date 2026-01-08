@@ -1,6 +1,6 @@
 # ATOW Estimation
 
-This repository contains the research and implementation of my Master’s Thesis, which focuses on solving a critical data gap in the Air Traffic Management (ATM) domain: the lack of publicly available Take-Off Weight (TOW) data.
+This repository contains the research and implementation of my [Master’s Thesis](TFM_final.pdf), which focuses on solving a critical data gap in the Air Traffic Management (ATM) domain: the lack of publicly available Take-Off Weight (TOW) data.
 
 While TOW is essential for precise trajectory prediction and environmental sustainability, it is often classified as proprietary by operators. This project utilizes Machine Learning to retrospectively predict TOW by leveraging multiple operational and performance data sources.
 
