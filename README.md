@@ -1,5 +1,9 @@
 # ATOW Estimation
 
+This repository contains the research and implementation of my Master’s Thesis, which focuses on solving a critical data gap in the Air Traffic Management (ATM) domain: the lack of publicly available Take-Off Weight (TOW) data.
+
+While TOW is essential for precise trajectory prediction and environmental sustainability, it is often classified as proprietary by operators. This project utilizes Machine Learning to retrospectively predict TOW by leveraging multiple operational and performance data sources.
+
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
@@ -58,4 +62,5 @@ Actual Take-off Weight (ATOW) of an aircraft: An AI approach
 ```
 
 --------
+
 
