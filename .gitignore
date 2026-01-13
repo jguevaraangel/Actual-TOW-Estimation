@@ -16,7 +16,7 @@ __pycache__/
 
 # C extensions
 *.so
-*.png
+# *.png
 *.csv
 *.txt
 !requirements.txt
